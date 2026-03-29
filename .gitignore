@@ -484,3 +484,6 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.Development.json
 API/appsettings.json
+API/localhost.crt
+client/ssl/localhost-key.pem
+client/ssl/localhost.pem
